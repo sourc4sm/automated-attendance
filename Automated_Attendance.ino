@@ -1,3 +1,5 @@
+// Anyone can modify the code and I am welcome for that *insert smiley
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <MFRC522.h>
